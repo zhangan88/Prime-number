@@ -9,7 +9,7 @@ public class Primenumber
     public static void main (String[] args)
     {
 	c = new Console ();
-	c.print ("Enter an integer that you want to check if it is prime:");
+	c.print ("Enter an integer that you want to check if it is prime: ");
         int input;
         input = c.readInt();
         int i=2;
